@@ -1,0 +1,1 @@
+int fatorialQuad(int n);

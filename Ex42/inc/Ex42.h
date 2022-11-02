@@ -1,0 +1,1 @@
+float MediaVetor(int * vetor);

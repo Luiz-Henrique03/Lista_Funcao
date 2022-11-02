@@ -1,0 +1,1 @@
+int FatorialExponencial(int n);

@@ -1,0 +1,1 @@
+void DesenhaLinha(int qtd);

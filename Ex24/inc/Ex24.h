@@ -1,0 +1,1 @@
+void Imprimetriangulo(int linhas);

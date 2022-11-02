@@ -1,0 +1,1 @@
+int SomaColuna(int matriz[7][6], int coluna);

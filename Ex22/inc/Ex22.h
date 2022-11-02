@@ -1,0 +1,1 @@
+void ImprimePontoExclamacao(int linhas);

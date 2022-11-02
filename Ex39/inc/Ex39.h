@@ -1,0 +1,1 @@
+int Trocar(int &a, int &b);

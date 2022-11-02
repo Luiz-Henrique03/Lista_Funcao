@@ -1,0 +1,1 @@
+int ComparaDoisNumeros(int a, int b);

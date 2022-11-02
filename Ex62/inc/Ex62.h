@@ -1,0 +1,1 @@
+void Tamanho(char *str, int* strsize);

@@ -1,0 +1,1 @@
+int somaDiagonalPrincipal(int matriz[3][3]);

@@ -1,0 +1,1 @@
+int Dobro(int Num);

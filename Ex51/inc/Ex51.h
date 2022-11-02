@@ -1,0 +1,1 @@
+int somaDiagonalSecundaria(int matriz[3][3]);

@@ -1,0 +1,1 @@
+int SomaEntre(int inicio, int fim);

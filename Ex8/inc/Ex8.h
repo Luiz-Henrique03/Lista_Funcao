@@ -1,0 +1,1 @@
+double Hipotenusa(int a, int b);

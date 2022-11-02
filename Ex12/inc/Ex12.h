@@ -1,0 +1,1 @@
+int SomaAlgarismo(int num);

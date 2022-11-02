@@ -1,0 +1,1 @@
+double temperatura(int Celsius);

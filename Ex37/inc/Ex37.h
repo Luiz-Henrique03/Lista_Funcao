@@ -1,0 +1,1 @@
+int HiperFat(int n);

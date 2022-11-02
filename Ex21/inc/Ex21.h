@@ -1,0 +1,1 @@
+int qtdPrimo(int n);

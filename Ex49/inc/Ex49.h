@@ -1,0 +1,1 @@
+int somaAbaixoDiagonalPrincipal(int matriz[3][3]);

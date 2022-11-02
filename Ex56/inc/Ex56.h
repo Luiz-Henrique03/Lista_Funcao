@@ -1,0 +1,1 @@
+int SomaLinha(int matriz[7][6], int linha);

@@ -1,0 +1,1 @@
+void LerString(char leitura[5]);

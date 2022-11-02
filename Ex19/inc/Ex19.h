@@ -1,0 +1,1 @@
+int maxPrimo(int n);

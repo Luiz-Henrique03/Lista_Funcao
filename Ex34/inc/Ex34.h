@@ -1,0 +1,1 @@
+int FatorialDuplo(int n);
