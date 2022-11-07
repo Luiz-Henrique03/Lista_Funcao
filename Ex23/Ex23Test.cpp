@@ -7,7 +7,8 @@ plo, a saida para n = 4 seria:
 ****
 ***
 **
-**/
+*
+*/
 
 #include <iostream>
 #include <string>

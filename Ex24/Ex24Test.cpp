@@ -5,7 +5,8 @@ plo, a saída para n = 6 seria:
 *****
 *******
 *********
-************/
+***********
+*/
 
 
 #include <iostream>
