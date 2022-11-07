@@ -3,6 +3,9 @@ project(GTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
+include_directories(inc)
+
+
 include(FetchContent)
 FetchContent_Declare(
   googletest
@@ -14,10 +17,15 @@ FetchContent_MakeAvailable(googletest)
 
 add_executable(
   Ex10
-  /home/luiz/Lista_Funcao/Lista_Funções/Ex10/main/Ex10.cpp
+  src/Ex10.cpp
   Ex10Test.cpp
 )
 
+add_executable(
+  Ex10Main
+  src/Ex10.cpp
+  Ex10Main.cpp
+)
 
 target_link_libraries(
   Ex10

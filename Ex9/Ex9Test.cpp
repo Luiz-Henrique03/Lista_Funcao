@@ -4,14 +4,12 @@ V = π ∗ raio2 ∗ altura, onde π = 3.141592*/
 
 #include <iostream>
 #include <cmath>
+#include "Ex9.h"
 #include <gtest/gtest.h>
 
 
 using namespace std;
 
-double CalcVolumeCilindro(double altura, double raio){
-    return 3.141592 * pow(raio,2) * altura;
-}
 
 TEST(testCalcVolumeCilindro, testCalcVolumeCilindro){
     EXPECT_EQ(CalcVolumeCilindro(2,4), 100.531);

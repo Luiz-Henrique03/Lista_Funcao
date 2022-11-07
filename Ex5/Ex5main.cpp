@@ -1,5 +1,10 @@
+/*Faça uma função e um programa de teste para o cálculo do volume de uma esfera. ´
+Sendo que o raio e passado por par ´ ametro. ˆ
+V = 4/3 ∗ π ∗ R3*/
+
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex5/inc/Ex5.h"
+#include "Ex5.h"
 
 
 using namespace std;

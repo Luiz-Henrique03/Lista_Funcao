@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Ex9.h"
 #include <cmath>
 
 using namespace std;

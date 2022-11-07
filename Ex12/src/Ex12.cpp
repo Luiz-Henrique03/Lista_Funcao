@@ -1,5 +1,5 @@
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex12/inc/Ex12.h"
+#include "Ex12.h"
 
 using namespace std;
 

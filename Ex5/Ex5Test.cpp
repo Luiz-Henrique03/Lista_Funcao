@@ -4,7 +4,7 @@ V = 4/3 ∗ π ∗ R3*/
 
 #include <iostream>
 #include <cmath>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex5/inc/Ex5.h"
+#include "Ex5.h"
 #include <gtest/gtest.h>
 
 using namespace std;

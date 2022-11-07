@@ -3,6 +3,9 @@ project(GTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
+include_directories(inc)
+
+
 include(FetchContent)
 FetchContent_Declare(
   googletest
@@ -14,9 +17,15 @@ FetchContent_MakeAvailable(googletest)
 
 add_executable(
   Ex9
+  src/Ex9.cpp
   Ex9Test.cpp
 )
 
+add_executable(
+  Ex9Main
+  src/Ex9.cpp
+  Ex9Main.cpp
+)
 
 target_link_libraries(
   Ex9

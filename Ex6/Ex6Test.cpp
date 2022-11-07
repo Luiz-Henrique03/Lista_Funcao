@@ -3,6 +3,7 @@ minutos e segundos, e os converta em segundos.
 */
 
 #include <iostream>
+#include "Ex6.h" 
 #include <gtest/gtest.h>
 
 using namespace std;

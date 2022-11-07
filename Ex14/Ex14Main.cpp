@@ -1,5 +1,9 @@
+/*Faça uma função que receba a distância em ˆ Km e a quantidade de litros de gasolina
+consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma
+mensagem de acordo com a tabela abaixo:*/
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex14/inc/Ex14.h"
+#include "Ex14.h"
 
 using namespace std;
 

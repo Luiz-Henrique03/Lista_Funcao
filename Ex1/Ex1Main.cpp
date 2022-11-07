@@ -1,5 +1,8 @@
+// Crie uma função que recebe como parâmetro um número inteiro e devolve o seu dobro. 
+
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex1/inc/Ex1.h"
+#include "Ex1.h"
 
 using namespace std;
 

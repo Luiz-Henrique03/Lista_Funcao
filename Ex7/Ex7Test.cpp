@@ -3,6 +3,7 @@ em graus Fahrenheit. A formula de conversão˜ é: F = C ∗ (9.0/5.0) + 32.0, s
 temperatura em Fahrenheit e C a temperatura em Celsius.*/
 
 #include <iostream>
+#include "Ex7.h" 
 #include <gtest/gtest.h>
 
 using namespace std;

@@ -1,5 +1,9 @@
+/*Faça uma função que receba a altura e o raio de um cilindro circular e retorne o volume ˜
+do cilindro. O volume de um cilindro circular e calculado por meio da seguinte f ´ ormula: ´
+V = π ∗ raio2 ∗ altura, onde π = 3.141592*/
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex9/inc/Ex9.h"
+#include "Ex9.h"
 #include <cmath>
 
 using namespace std;

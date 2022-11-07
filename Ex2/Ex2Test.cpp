@@ -4,7 +4,7 @@ no formato textual por extenso. Exemplo: Data: 01/01/2000, Imprimir: 1 de janeir
 
 #include <iostream>
 #include <string>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex2/inc/Ex2.h"
+#include "Ex2.h"
 #include <gtest/gtest.h>
 
 using namespace std;

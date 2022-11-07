@@ -4,7 +4,7 @@ de todos os seus algarismos. Por exemplo, ao numero 251 corresponder a o valor 8
 mensagem “Numero inválido”.*/
 
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex12/inc/Ex12.h"
+#include "Ex12.h"
 #include <gtest/gtest.h>
 
 using namespace std;

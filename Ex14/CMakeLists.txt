@@ -3,6 +3,9 @@ project(GTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
+include_directories(inc)
+
+
 include(FetchContent)
 FetchContent_Declare(
   googletest
@@ -14,10 +17,15 @@ FetchContent_MakeAvailable(googletest)
 
 add_executable(
   Ex14
-  Ex14.cpp
+  src/Ex14.cpp
   Ex14Test.cpp
 )
 
+add_executable(
+  Ex14Main
+  src/Ex14.cpp
+  Ex14Main.cpp
+)
 
 target_link_libraries(
   Ex14

@@ -1,5 +1,10 @@
+/*Faça uma função que receba 3 números inteiros como parâmetro, representando horas, ˆ
+minutos e segundos, e os converta em segundos.
+*/
+
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex6/inc/Ex6.h"
+#include "Ex6.h"
 
 using namespace std;
 

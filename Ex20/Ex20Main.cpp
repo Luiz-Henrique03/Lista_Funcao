@@ -1,3 +1,6 @@
+/*Faça um algoritmo que receba um numero inteiro positivo  n e calcule o seu fatorial, n!.*/
+
+
 #include <iostream>
 #include "Ex20.h"
 

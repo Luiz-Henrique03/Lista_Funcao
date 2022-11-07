@@ -1,5 +1,8 @@
+/*Faça uma função para verificar se um número é positivo ou negativo. Sendo que o valor ´
+de retorno sera 1 se positivo, -1 se negativo e 0 se for igual a 0*/
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex3/inc/Ex3.h"
+#include "Ex3.h"
 
 using namespace std;
 

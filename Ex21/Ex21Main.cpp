@@ -1,3 +1,6 @@
+/*Escreva uma função para determinar a quantidade de números primos abaixo N.*/
+
+
 #include <iostream>
 #include "Ex21.h"
 using namespace std;

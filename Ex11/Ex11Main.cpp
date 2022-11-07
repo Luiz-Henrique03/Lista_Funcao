@@ -1,5 +1,10 @@
+/*Elabore uma função que receba três notas de um aluno como parâmetros e uma letra. ˆ
+Se a letra for A, a função deverá calcular a m ´ edia aritmética das notas do aluno; se for P, ´
+devera calcular a média ponderada, com pesos 5, 3 e 2.*/
+
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex11/inc/Ex11.h"
+#include "Ex11.h"
 
 using namespace std;
 

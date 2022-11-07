@@ -3,7 +3,7 @@ ser realizada uma adição, se for  − uma subtração, se for / uma divisão e
 efetuada uma multiplicação.*/
 
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex13/inc/Ex13.h" 
+#include "Ex13.h" 
 #include <gtest/gtest.h>
 
 using namespace std;

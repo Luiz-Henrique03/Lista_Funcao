@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(inc)
 
+
 include(FetchContent)
 FetchContent_Declare(
   googletest
@@ -20,6 +21,11 @@ add_executable(
   Ex15Test.cpp
 )
 
+add_executable(
+  Ex15Main
+  src/Ex15.cpp
+  Ex15Main.cpp
+)
 
 target_link_libraries(
   Ex15

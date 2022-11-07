@@ -2,6 +2,7 @@
 de retorno sera 1 se positivo, -1 se negativo e 0 se for igual a 0*/
 
 #include <iostream>
+#include "Ex3.h"
 #include <gtest/gtest.h>
 
 using namespace std;

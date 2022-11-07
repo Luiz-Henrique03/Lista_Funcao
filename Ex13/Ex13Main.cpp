@@ -1,5 +1,10 @@
+/*Faça uma função que receba dois valores numéricos e um símbolo. Este s´ımbolo representara a operação que se deseja efetuar com os números. Se o símbolo for + devera´
+ser realizada uma adição, se for  − uma subtração, se for / uma divisão e se for  ∗ sera´
+efetuada uma multiplicação.*/
+
+
 #include <iostream>
-#include "/home/luiz/Lista_Funcao/Lista_Funções/Ex13/inc/Ex13.h"
+#include "Ex13.h"
 
 using namespace std;
 

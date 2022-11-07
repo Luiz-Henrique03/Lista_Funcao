@@ -3,6 +3,7 @@ perfeito e um número inteiro não negativo que pode ser expresso como o quadrad
 outro numero inteiro. Ex: 1, 4, 9... */
 
 #include <iostream>
+#include "Ex4.h"
 #include <gtest/gtest.h>
 
 using namespace std;
