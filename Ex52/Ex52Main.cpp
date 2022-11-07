@@ -1,4 +1,4 @@
-/*Escreva uma funcao que recebe uma matriz quadrada de ordem N e calcule a sua trans- ˜
+/*Escreva uma funcao que recebe uma matriz quadrada de ordem N e calcule a sua trans- 
 posta (se B e a matriz transposta de A então aij = bji).*/
 
 #include <iostream>

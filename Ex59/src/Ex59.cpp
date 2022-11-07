@@ -1,4 +1,4 @@
-/* Faça uma função que recebe, por parâmetro, 2 vetores de 10 elementos inteiros e que ˆ
+/* Faça uma função que recebe, por parâmetro, 2 vetores de 10 elementos inteiros e que 
 calcule e retorne, tambem por parâmetro, o vetor união dos dois primeiros. */
 
 #include <iostream>

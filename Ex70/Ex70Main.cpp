@@ -1,17 +1,17 @@
-/*Um racional e qualquer numero da forma  p/q, sendo p inteiro e q inteiro nao nulo. ˜ E´
+/*Um racional e qualquer numero da forma  p/q, sendo p inteiro e q inteiro nao nulo. ˜ E
 conveniente representar um racional por um registro:
 struct racional{
 int p, q;
 };
 Vamos convencionar que o campo q de todo racional e estritamente positivo e que o 
 maximo divisor comum dos campos  p e q e 1. Escreva 
-(a) uma func¸ao reduz que receba inteiros a e b e devolva o racional que representa a/b; ˜
+(a) uma func¸ao reduz que receba inteiros a e b e devolva o racional que representa a/b; 
 (b) uma func¸ao neg que receba um racional x e devolva o racional -x; 
-(c) uma func¸ao soma que receba racionais x e y e devolva o racional que representa a ˜
+(c) uma func¸ao soma que receba racionais x e y e devolva o racional que representa a 
 soma de x e y;
-(d) uma func¸ao mult que receba racionais x e y e devolva o racional que representa o ˜
+(d) uma func¸ao mult que receba racionais x e y e devolva o racional que representa o 
 produto de x por y;
-(e) uma func¸ao div que receba racionais x e y e devolva o racional que representa o ˜
+(e) uma func¸ao div que receba racionais x e y e devolva o racional que representa o 
 quociente de x por y*/
 
 #include <iostream>

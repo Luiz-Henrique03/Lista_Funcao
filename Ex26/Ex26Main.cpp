@@ -1,4 +1,4 @@
-/*Faça um algoritmo que receba um numero inteiro positivo  n e calcule o somatorio de 1 ´
+/*Faça um algoritmo que receba um numero inteiro positivo  n e calcule o somatorio de 1 
 até n.
 */
 

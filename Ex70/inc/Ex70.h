@@ -1,3 +1,8 @@
+
+struct racional{
+int p, q;
+};
+
 float reduz(racional *R1, racional *R2);
 void neg(int &racional);
 int Soma(int X, int Y);

@@ -3,9 +3,6 @@
 
 using namespace std;
 
-struct racional{
-int p, q;
-};
 
 float reduz(racional *R1, racional *R2){
     return R1->p / R2->q;

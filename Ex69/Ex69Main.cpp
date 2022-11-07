@@ -1,8 +1,8 @@
 /*Faça um programa que faça operac¸oes simples de frações: 
-• Crie e leia duas frac¸oes ˜ p e q, compostas por numerador e denominador.
-• Encontre o maximo divisor comum entre o numerador e o denominador, e simplifi- ´
+• Crie e leia duas frações p e q, compostas por numerador e denominador.
+• Encontre o maximo divisor comum entre o numerador e o denominador, e simplifi- 
 que as frações. 
-• Apresente a soma, a subtração, o produto e o quociente entre as frações lidas. ˜
+• Apresente a soma, a subtração, o produto e o quociente entre as frações lidas. 
 Obs.: Cria uma func¸ao para cada item.*/
 
 #include <iostream>

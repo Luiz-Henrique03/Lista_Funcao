@@ -24,7 +24,7 @@ add_executable(
 add_executable(
   Ex12Main
   src/Ex12.cpp
-  Ex12Main.cpp
+  Ex12main.cpp
 )
 
 target_link_libraries(
