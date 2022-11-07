@@ -7,8 +7,6 @@ dos elementos que estao na diagonal principal.*/
 #include <gtest/gtest.h>
 
 
-
-
 TEST(testSomaDiagonalPrincipal,testSomaDiagonalPrincipal){
     int soma = 0,
         mat[3][3] = {{4,5,6},{3,9,7},{1,2,8}};

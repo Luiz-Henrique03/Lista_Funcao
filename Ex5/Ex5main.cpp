@@ -1,5 +1,5 @@
 /*Faça uma função e um programa de teste para o cálculo do volume de uma esfera. ´
-Sendo que o raio e passado por par ´ ametro. ˆ
+Sendo que o raio e passado por parametro.
 V = 4/3 ∗ π ∗ R3*/
 
 

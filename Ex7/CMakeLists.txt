@@ -24,7 +24,7 @@ add_executable(
 add_executable(
   Ex7Main
   src/Ex7.cpp
-  Ex7Main.cpp
+  Ex7main.cpp
 )
 
 target_link_libraries(

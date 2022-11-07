@@ -24,7 +24,7 @@ add_executable(
 add_executable(
   Ex8Main
   src/Ex8.cpp
-  Ex8Main.cpp
+  Ex8main.cpp
 )
 
 target_link_libraries(
