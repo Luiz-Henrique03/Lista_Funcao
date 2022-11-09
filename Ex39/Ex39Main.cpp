@@ -2,9 +2,10 @@
 (i.e., A recebe o valor de B e B recebe o valor de A).*/
 
 #include <iostream>
+#include "Ex39.h"
 #include <cmath>
 
-
+using namespace std;
 
 int main(){
     int a = 10,

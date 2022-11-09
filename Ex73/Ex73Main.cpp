@@ -12,5 +12,4 @@ int main(){
   cout << maiorIdade(pessoas) << endl;
   cout << Media18e35(pessoas) << endl;
 
-
 }

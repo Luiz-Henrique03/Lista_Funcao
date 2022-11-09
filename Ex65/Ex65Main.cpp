@@ -12,6 +12,7 @@ using namespace std;
 int main(){
     string str1 = "Olá ",
            str2 = "Mundo";
+           
     int n = 4;
 
     cout << ConcatString(str1,str2, n);
